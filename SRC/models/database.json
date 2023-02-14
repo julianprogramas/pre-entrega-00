@@ -1,0 +1,63 @@
+[{
+    "titulo": "producto prueba 1",
+    "descripcion": "Este es un producto prueba 1",
+    "precio": 200,
+    "imagen": "Sin imagen",
+    "codigo": "CH01",
+    "stock": 25,
+    "id": 1
+},
+{
+    "titulo": "producto prueba 2",
+    "descripcion": "Este es un producto prueba 2",
+    "precio": 200,
+    "imagen": "Sin imagen",
+    "codigo": "CH02",
+    "stock": 25,
+    "id": 1
+},
+{
+    "titulo": "producto prueba 3",
+    "descripcion": "Este es un producto prueba 3",
+    "precio": 200,
+    "imagen": "Sin imagen",
+    "codigo": "CH09",
+    "stock": 25,
+    "id": 1
+},
+{
+    "titulo": "producto prueba 4",
+    "descripcion": "Este es un producto prueba 4",
+    "precio": 200,
+    "imagen": "Sin imagen",
+    "codigo": "CH04",
+    "stock": 25,
+    "id": 1
+},
+{
+    "titulo": "producto prueba 5",
+    "descripcion": "Este es un producto prueba 5",
+    "precio": 200,
+    "imagen": "Sin imagen",
+    "codigo": "CH05",
+    "stock": 25,
+    "id": 1
+},
+{
+    "titulo": "producto prueba 6",
+    "descripcion": "Este es un producto prueba 6",
+    "precio": 200,
+    "imagen": "Sin imagen",
+    "codigo": "CH06",
+    "stock": 25,
+    "id": 1
+},
+{
+    "titulo": "producto prueba 7",
+    "descripcion": "Este es un producto prueba 7",
+    "precio": 200,
+    "imagen": "Sin imagen",
+    "codigo": "CH07",
+    "stock": 25,
+    "id": 1
+},]
